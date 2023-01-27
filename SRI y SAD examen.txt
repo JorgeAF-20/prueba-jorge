@@ -1,0 +1,46 @@
+SRI
+-----------
+1) Comando que me permite crear un archivo dentro de otro
+2) En que directorio se encuentra el fichero de configuración de haproxy
+3) Que comando nos permite ver los puertos abierto en un contenedor docker
+4) Metodos de balanceo en haproxy
+5) Que función tiene el MUA
+6) Que función tiene el MDA
+7) Que comando es SMPT permite mandar al servidor la identificación del cliente con información adicional 
+8) Caracteristicas del protocolo IMAP y POP3
+9) Que código de respuesta manda el servidor en caso de que todo este bien
+10) Señala las tres de fases de envio del mensaje SMPT
+11) Que orden genera los códigos de error relacionada con la identificación del receptor  
+12) Que código esta relacionada con start_main_input
+13) Que comando se utiliza para crear un contenedor a partir de una imagen y correrlo  
+14) Que es un alias, correo
+15) Para que sirve docker-compose-logs
+16) Para que sirve docker-compose-down
+17) Para que sirve docker-compose-pause 
+18) Para que sirve docker-compose-unpause
+19) Que es el docker pull, build y run
+20) Con comando docker podemos borrar una imagen
+21) Que pasos tenemos que seguir para que el borrado sea  efectivo
+22) Identificar cada caracteristica de los metodos de balanceo de haproxy
+23) Como podemos listar las imagenes en docker  
+24) Que funcion tiene el attath, start y status
+
+Seguridad
+-----------
+1) Ventajas de VPN X
+2) Que es stunnel, correo electronico POP3 y IMAP X
+3) Protocolos de VPN actuan a nivel de capa de enlace X
+4) Funciones IDS X
+5) Clasificación de IDS X
+6) Esquema UTM X
+7) Clasificación Honeypot X
+8) Comando de instalar cortafuegos en Linux X
+9) Tipos de cortafuegos X
+10) Herramienta de fortificación en una red perimetral X
+11) Caracteristicas de los diferentes cortafuegos X
+12) Utilidad de Caín & Abel X
+13) Diferentes tipos de control de acceso 
+14) Que es Snort, Honeypot, Sploit, UTM X
+15) Comando packet tracer 
+16) IDs inline todo X
+17) Ventajas y Desventajas de HoneyPot X
